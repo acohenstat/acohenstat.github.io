@@ -12,9 +12,7 @@ permalink: /
  
 ## Computational Statistics and Data Analytics Lab at UWF
 
-**CSDA** (Computational Statistics and Data Analytics) is a **student-centered** research group in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, and applied machine learning.<br>
-
-**CSDA** (Computational Statistics and Data Analytics) is a **student-centered research group** in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, applied machine learning and AI. The following are main areas of research (but not limited to):
+**CSDA** (Computational Statistics and Data Analytics) is a **student-centered research group** in the Department of Mathematics and Statistics, the Hal Marcus College of Science and Engineering at the University of West Florida, working on research projects in data science, statistical process monitoring, computational neuroscience, probability distributions, applied machine learning and AI. The following are the main areas of research (but not limited to):
 
 - **Statistical / Predictive modeling**: Applying statistics and machine learning to solve multidisciplinary problems in Engineering, Biology, Chemistry, Education, Sports, and Health, to name a few.
 - **Statistical process monitoring**: Developing and evaluating statistical methods for system monitoring purposes, including fault detection and diagnostics, health monitoring, profile monitoring, IoT monitoring, image monitoring, etc.
@@ -31,16 +29,16 @@ The CSDA Lab is primarily a data analytics group that uses a wide range of stati
 - Classification: SVM, regressions, Random forest, and more.
 - Predictive models: RNN, CNN, regression, LSTM, and more.
 - Imputation methods: MICE, EM, and more.
-- Signal processing: Wavelet analysis, Fourier transforms, multiscale analaysis, and more. 
+- Signal processing: Wavelet analysis, Fourier transforms, multiscale analysis, and more. 
 - Tools: R, Quarto, Python, SAS, and MATLAB.
 
 
 ### Collaborators
-- Thatayaone Moakofi, PhD Statistics Student in the Department of Mathematics and Statistical Sciences, Botswana International University of Science and Technology. Email: thatayaone.moakofi@studentmail.biust.ac.bw 
+- Thatayaone Moakofi, Ph.D. Statistics Student in the Department of Mathematics and Statistical Sciences, Botswana International University of Science and Technology. Email: thatayaone.moakofi@studentmail.biust.ac.bw 
 - Prof. Broderick Oluyede
 
 ### Joining CSDA Lab
-If you are interested in joining please go to the [recruitment](recruitment) page.
+If you are interested in joining, please go to the [recruitment](recruitment) page.
 
 ### Funding
 TBD
